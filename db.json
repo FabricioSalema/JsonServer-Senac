@@ -1,9 +1,94 @@
 {
-    "notas": [
+    "games": [
         {
             "id": 1,
-            "titulo": "Estudar js",
-            "status": true
+            "titulo": "Fifa 22",
+            "genero": "esporte",
+            "midia": "digital"
+        },
+
+        {
+            "id": 2,
+            "titulo": "The Witcher",
+            "genero": "RPG",
+            "midia": "física"
+        },
+
+        {
+            "id": 3,
+            "titulo": "Rise of Tomb Raider",
+            "genero": "aventura",
+            "midia": "digital"
         }
+    ],
+    
+    "plataformas": [
+        {
+            "id": 1,
+            "titulo": "Playstation 5",
+            "marca": "Sony",
+            "modelo": "Slim"
+        },
+
+        {
+            "id": 2,
+            "titulo": "Xbox Series",
+            "marca": "Microsoft",
+            "modelo": "X"
+        },
+
+        {
+            "id": 3,
+            "titulo": "Xbox Series",
+            "marca": "Microsoft",
+            "modelo": "S"
+        }
+    ],
+
+    "Tvs": [
+        {
+            "id": 1,
+            "marca": "Sony",
+            "modelo": "Bravia",
+            "smartTv": "Sim"
+        },
+
+        {
+            "id": 2,
+            "marca": "LG",
+            "modelo": "AI ThinQ",
+            "smartTv": "Sim"
+        },
+
+        {
+            "id": 3,
+            "marca": "Samsung",
+            "modelo": "55Q80A",
+            "smartTv": "Sim"
+        }
+    ],
+
+    "perifericos": [
+        {
+            "id": 1,
+            "tipo": "Headset",
+            "marca": "Sony",
+            "quantidade": "6"
+        },
+
+        {
+            "id": 2,
+            "tipo": "controle Xbox",
+            "marca": "Microsoft",
+            "quantidade": "4"
+        },
+
+        {
+            "id": 3,
+            "tipo": "dualshock 5",
+            "marca": "Sony",
+            "quantidade": "2"
+        }
+
     ]
 }
